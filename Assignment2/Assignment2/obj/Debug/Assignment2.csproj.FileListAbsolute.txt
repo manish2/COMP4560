@@ -1,0 +1,9 @@
+C:\Users\manish\Desktop\SmallTalk\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\manish\Desktop\SmallTalk\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\manish\Desktop\SmallTalk\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\manish\Desktop\SmallTalk\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\manish\Desktop\SmallTalk\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+C:\Users\manish\Desktop\SmallTalk\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\manish\Desktop\SmallTalk\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\manish\Desktop\SmallTalk\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\manish\Desktop\SmallTalk\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
